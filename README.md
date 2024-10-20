@@ -1,1 +1,23 @@
-Juego de Batalla Naval implementado en Python, donde dos jugadores pueden competir entre sí, o uno de ellos puede ser controlado por la computadora. La dinámica del juego se basa en la colocación estratégica de barcos en un tablero y la realización de ataques para hundir los barcos del oponente.
+# Batalla Naval
+Un juego de Batalla Naval en Python que permite a los jugadores colocar barcos y atacar a su oponente.
+
+## Tabla de Contenidos
+- [Características](#características)
+- [Instalación](#instalación)
+- [Uso](#uso)
+
+## Características
+- Juego para dos jugadores (local o contra la computadora).
+- Colocación automática de barcos.
+- Interfaz de texto simple para interactuar.
+- Verificación de condiciones de victoria.
+
+## Instalación
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/CesarVicciApar/Battleship.git
+
+## Uso
+Para iniciar el juego, ejecuta el siguiente comando en tu terminal:
+```bash
+python naval_batle.py
